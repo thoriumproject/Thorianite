@@ -76,7 +76,7 @@ class AtomicPointer {
  private:
   intptr_t rep_;
  public:
-  // Initialize to Everary value
+  // Initialize to arbitrary value
   AtomicPointer();
 
   // Initialize to hold v
